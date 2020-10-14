@@ -115,31 +115,31 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 *Libraries for manipulating audio.*
 
-* [EasyMIDI](https://github.com/algoGuy/EasyMIDI) - EasyMidi is a simple and reliable library for working with standard midi file (SMF).
-* [flac](https://github.com/mewkiz/flac) - Native Go FLAC encoder/decoder with support for FLAC streams.
-* [gaad](https://github.com/Comcast/gaad) - Native Go AAC bitstream parser.
-* [go-sox](https://github.com/krig/go-sox) - libsox bindings for go.
-* [go_mediainfo](https://github.com/zhulik/go_mediainfo) - libmediainfo bindings for go.
-* [GoAudio](https://github.com/DylanMeeus/GoAudio) - Native Go Audio Processing Library.
-* [gosamplerate](https://github.com/dh1tw/gosamplerate) - libsamplerate bindings for go.
-* [id3v2](https://github.com/bogem/id3v2) - ID3 decoding and encoding library for Go.
-* [malgo](https://github.com/gen2brain/malgo) - Mini audio library.
-* [minimp3](https://github.com/tosone/minimp3) - Lightweight MP3 decoder library.
-* [mix](https://github.com/go-mix/mix) - Sequence-based Go-native audio mixer for music apps.
-* [mp3](https://github.com/tcolgate/mp3) - Native Go MP3 decoder.
-* [music-theory](https://github.com/go-music-theory/music-theory) - Music theory models in Go.
-* [Oto](https://github.com/hajimehoshi/oto) - A low-level library to play sound on multiple platforms.
-* [PortAudio](https://github.com/gordonklaus/portaudio) - Go bindings for the PortAudio audio I/O library.
-* [portmidi](https://github.com/rakyll/portmidi) - Go bindings for PortMidi.
-* [taglib](https://github.com/wtolson/go-taglib) - Go bindings for taglib.
-* [vorbis](https://github.com/mccoyst/vorbis) - "Native" Go Vorbis decoder (uses CGO, but has no dependencies).
-* [waveform](https://github.com/mdlayher/waveform) - Go package capable of generating waveform images from audio streams.
+* [EasyMIDI](https://github.com/algoGuy/EasyMIDI) ![GitHub stars](https://img.shields.io/github/stars/algoGuy/EasyMIDI.svg?style=social&label=Star&maxAge=2592000) - EasyMidi is a simple and reliable library for working with standard midi file (SMF).
+* [flac](https://github.com/mewkiz/flac) ![GitHub stars](https://img.shields.io/github/stars/mewkiz/flac.svg?style=social&label=Star&maxAge=2592000) - Native Go FLAC encoder/decoder with support for FLAC streams.
+* [gaad](https://github.com/Comcast/gaad) ![GitHub stars](https://img.shields.io/github/stars/Comcast/gaad.svg?style=social&label=Star&maxAge=2592000) - Native Go AAC bitstream parser.
+* [go-sox](https://github.com/krig/go-sox) ![GitHub stars](https://img.shields.io/github/stars/vkrig/go-sox.svg?style=social&label=Star&maxAge=2592000) - libsox bindings for go.
+* [go_mediainfo](https://github.com/zhulik/go_mediainfo) ![GitHub stars](https://img.shields.io/github/stars/zhulik/go_mediainfo.svg?style=social&label=Star&maxAge=2592000) - libmediainfo bindings for go.
+* [GoAudio](https://github.com/DylanMeeus/GoAudio) ![GitHub stars](https://img.shields.io/github/stars/DylanMeeus/GoAudio.svg?style=social&label=Star&maxAge=2592000) - Native Go Audio Processing Library.
+* [gosamplerate](https://github.com/dh1tw/gosamplerate) ![GitHub stars](https://img.shields.io/github/stars/dh1tw/gosamplerate.svg?style=social&label=Star&maxAge=2592000) - libsamplerate bindings for go.
+* [id3v2](https://github.com/bogem/id3v2) ![GitHub stars](https://img.shields.io/github/stars/bogem/id3v2.svg?style=social&label=Star&maxAge=2592000) - ID3 decoding and encoding library for Go.
+* [malgo](https://github.com/gen2brain/malgo) ![GitHub stars](https://img.shields.io/github/stars/gen2brain/malgo.svg?style=social&label=Star&maxAge=2592000) - Mini audio library.
+* [minimp3](https://github.com/tosone/minimp3) ![GitHub stars](https://img.shields.io/github/stars/tosone/minimp3.svg?style=social&label=Star&maxAge=2592000) - Lightweight MP3 decoder library.
+* [mix](https://github.com/go-mix/mix) ![GitHub stars](https://img.shields.io/github/stars/go-mix/mix.svg?style=social&label=Star&maxAge=2592000) - Sequence-based Go-native audio mixer for music apps.
+* [mp3](https://github.com/tcolgate/mp3) ![GitHub stars](https://img.shields.io/github/stars/tcolgate/mp3.svg?style=social&label=Star&maxAge=2592000) - Native Go MP3 decoder.
+* [music-theory](https://github.com/go-music-theory/music-theory) ![GitHub stars](https://img.shields.io/github/stars/go-music-theory/music-theory.svg?style=social&label=Star&maxAge=2592000) - Music theory models in Go.
+* [Oto](https://github.com/hajimehoshi/oto) ![GitHub stars](https://img.shields.io/github/stars/hajimehoshi/oto.svg?style=social&label=Star&maxAge=2592000) - A low-level library to play sound on multiple platforms.
+* [PortAudio](https://github.com/gordonklaus/portaudio) ![GitHub stars](https://img.shields.io/github/stars/gordonklaus/portaudio.svg?style=social&label=Star&maxAge=2592000) - Go bindings for the PortAudio audio I/O library.
+* [portmidi](https://github.com/rakyll/portmidi) ![GitHub stars](https://img.shields.io/github/stars/rakyll/portmidi.svg?style=social&label=Star&maxAge=2592000) - Go bindings for PortMidi.
+* [taglib](https://github.com/wtolson/go-taglib) ![GitHub stars](https://img.shields.io/github/stars/wtolson/go-taglib.svg?style=social&label=Star&maxAge=2592000) - Go bindings for taglib.
+* [vorbis](https://github.com/mccoyst/vorbis) ![GitHub stars](https://img.shields.io/github/stars/mccoyst/vorbis.svg?style=social&label=Star&maxAge=2592000) - "Native" Go Vorbis decoder (uses CGO, but has no dependencies).
+* [waveform](https://github.com/mdlayher/waveform) ![GitHub stars](https://img.shields.io/github/stars/mdlayher/waveform.svg?style=social&label=Star&maxAge=2592000) - Go package capable of generating waveform images from audio streams.
 
 ## Authentication and OAuth
 
 *Libraries for implementing authentications schemes.*
 
-* [authboss](https://github.com/volatiletech/authboss) - Modular authentication system for the web. It tries to remove as much boilerplate and "hard things" as possible so that each time you start a new web project in Go, you can plug it in, configure, and start building your app without having to build an authentication system each time.
+* [authboss](https://github.com/volatiletech/authboss) ![GitHub stars](https://img.shields.io/github/stars/volatiletech/authboss.svg?style=social&label=Star&maxAge=2592000) - Modular authentication system for the web. It tries to remove as much boilerplate and "hard things" as possible so that each time you start a new web project in Go, you can plug it in, configure, and start building your app without having to build an authentication system each time.
 * [branca](https://github.com/hako/branca) - Golang implementation of Branca Tokens.
 * [casbin](https://github.com/hsluoyz/casbin) - Authorization library that supports access control models like ACL, RBAC, ABAC.
 * [cookiestxt](https://github.com/mengzhuo/cookiestxt) - provides parser of cookies.txt file format.
